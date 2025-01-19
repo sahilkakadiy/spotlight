@@ -1,8 +1,8 @@
 name: spotlight
 description: "A Flutter plugin to highlight a spotlight effect."
-homepage:
-author: Your Name <your-email@example.com>
-repository:
+homepage: https://github.com/sahilkakadiy/spotlight.git
+author: Sahil Kakadiya <sahilkakadiya67@gmail.com>
+repository: https://github.com/sahilkakadiy/spotlight.git
 
 environment:
   sdk: ^3.6.0
