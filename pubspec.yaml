@@ -27,4 +27,5 @@ flutter:
       some_platform:
         pluginClass: somePluginClass
 
-publish_to: 'https://pub.dev'
+#publish_to: 'https://pub.dev/'
+
