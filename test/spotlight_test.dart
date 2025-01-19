@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:lightspot/spotlight.dart';
-import 'package:lightspot/spotlight_platform_interface.dart';
-import 'package:lightspot/spotlight_method_channel.dart';
+import 'package:spotlight/spotlight.dart';
+import 'package:spotlight/spotlight_platform_interface.dart';
+import 'package:spotlight/spotlight_method_channel.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
 class MockSpotlightPlatform
