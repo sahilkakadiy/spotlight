@@ -5,15 +5,7 @@ Spotlight is a Flutter plugin designed to highlight specific UI elements in your
 
 ---
 
-🌟 Features
-
-Highlight any widget using customizable spotlight shapes (circle, rectangle, or custom).
-
-Smooth animation for fade-in and fade-out effects.
-
-Fully customizable design, including overlay color and animation speed.
-
-Easy integration with minimal setup.
+![spotlight_image](https://github.com/user-attachments/assets/6df626ad-da7e-47c5-b62b-d3a04465d2ab)
 
 
 
